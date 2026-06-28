@@ -1,4 +1,4 @@
-# 
+# Native JetBrains WebStorm extensions for Mac OS | New JetBrains WebStorm extensions for PC Windows. Featuring tag-management and resource-monitoring — optimized for maximum performance on every platform.
 
 
 
